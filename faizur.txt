@@ -1,0 +1,2 @@
+git trainer
+hai iam the trainer for git and git hub
